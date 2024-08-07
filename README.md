@@ -1,1 +1,1 @@
-# rest-api-conventions
+# rest-api-design-guides
